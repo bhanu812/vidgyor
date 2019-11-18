@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://bhanu812.github.io/vidgyor",
+  "engines":{    
+    "node": "8.11.1",
+    "npm": "5.6.0"
+  },
   "dependencies": {
     "firebase": "^4.10.1",
     "react": "^16.2.0",
